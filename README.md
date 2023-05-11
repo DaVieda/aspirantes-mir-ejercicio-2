@@ -1,0 +1,9 @@
+# aspirantes-mir-ejercicio-2
+Bonus-eje-2
+COMPAÑEROS:
+
+- ALVARO TORO
+- WILLIAM SANDOVAL
+- CAROLINA CABRERA
+- DAIRO MACHAN
+- DAVID DIAZ
